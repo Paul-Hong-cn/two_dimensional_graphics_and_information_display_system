@@ -1,3 +1,3 @@
 # two_dimensional_graphics_and_information_display_system
 二维图形绘制和信息显示系统
-上海大学面向对象程序设计课外项目
+*上海大学面向对象程序设计课外项目*
